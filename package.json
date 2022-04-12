@@ -78,7 +78,7 @@
     "loader.js": "^4.6.0",
     "memory-scroll": "0.9.1",
     "mocha": "2.5.3",
-    "simple-git": "^1.10.0",
+    "simple-git": "^3.5.0",
     "testdouble": "^3.2.6"
   },
   "engines": {
